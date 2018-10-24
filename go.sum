@@ -1,0 +1,4 @@
+github.com/gocarina/gocsv v0.0.0-20180809181117-b8c38cb1ba36 h1:IlBbYij72r3CoD3fKTbP5jD0NJjrvemKsaxkW/QUdGE=
+github.com/gocarina/gocsv v0.0.0-20180809181117-b8c38cb1ba36/go.mod h1:/oj50ZdPq/cUjA02lMZhijk5kR31SEydKyqah1OgBuo=
+github.com/rs/zerolog v1.9.1 h1:AjV/SFRF0+gEa6rSjkh0Eji/DnkrJKVpPho6SW5g4mU=
+github.com/rs/zerolog v1.9.1/go.mod h1:YbFCdg8HfsridGWAh22vktObvhZbQsZXe4/zB0OKkWU=

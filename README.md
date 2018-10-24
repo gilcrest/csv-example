@@ -1,2 +1,3 @@
 # csv-example
-Example repo using gocarina for processing csv files
+
+Example repo which uses [gocarina](https://github.com/gocarina/gocsv) for processing csv files
